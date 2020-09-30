@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maycon-cesar-reis/video-maker-youtube/issues"
   },
-  "homepage": "https://github.com/maycon-cesar-reis/video-maker-youtube#readme"
+  "homepage": "https://github.com/maycon-cesar-reis/video-maker-youtube#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
